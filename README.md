@@ -1,7 +1,7 @@
 <h1 align="center">Hi 😄, I'm Tony Brilhante</h1>
 <h3 align="center">A Full Stack Web Developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Angular and Firebase**
+- 🌱 I’m currently learning **ReactJs and MySQL**
 
 - 📫 Reach me at **uktony@hotmail.com**
 
