@@ -1,11 +1,9 @@
 <h1 align="center">Hi 😄, I'm Tony Brilhante</h1>
 <h3 align="center">A Full Stack Web Developer from Brazil</h3>
 
-- 🌱 I’m currently learning **ReactJs, Go and Java**
 
 - 📫 Reach me at **uktony@hotmail.com**
 
-- ⚡ Fun fact: **I love puzzles!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
