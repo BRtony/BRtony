@@ -2,8 +2,6 @@
 <h3 align="center">A Full Stack Web Developer from Brazil</h3>
 
 
-- 📫 Reach me at **uktony@hotmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
